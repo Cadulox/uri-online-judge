@@ -9,6 +9,7 @@
 ## 📁O Repositório
 O repositório contém resoluções em Python dos problemas propostos na plataforma da URI dividido em suas [categorias](https://www.urionlinejudge.com.br/judge/pt/categories):
 
-1. [**Iniciante**](./categorias/iniciante) - _Problemas básicos para quem está iniciando na programação..._
+1. [**INICIANTE**](./categorias/index/1) - _Problemas básicos para quem está iniciando na programação..._
+2. [**AD-HOC**](./categorias/index/2) - _Problemas de Simulação, Datas e Ad-Hoc no geral..._
 
 >_A ideia principal desse repositório é praticar lógica, utilizando a linguagem de programação Python 3, e disponibilizar a solução dos desafios já resolvidos._
